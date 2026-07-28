@@ -36,4 +36,4 @@ uygulamasına kadar uçtan uca projeler üretmeyi seviyorum.
 ### 📫 İletişim
 
 [![Email](https://img.shields.io/badge/Email-anileyilmaz%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anileyilmaz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anıl%20Yılmaz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anıl-yılmaz-78a671341/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anıl%20Yılmaz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/an%C4%B1l-y%C4%B1lmaz-78a671341/)
