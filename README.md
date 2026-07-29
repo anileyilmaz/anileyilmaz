@@ -31,7 +31,7 @@ uygulamasına kadar uçtan uca projeler üretmeyi seviyorum.
   cevap formu üreten ve telefon fotoğrafından otomatik okuyup puanlayan masaüstü
   uygulaması (Python, PySide6, OpenCV).
 - **[FabrikaStokTakipUygulamasi](https://github.com/anileyilmaz/FabrikaStokTakipUygulamasi)**
-  — WinForms (.NET 8) stok takip uygulaması, PostgreSQL/SQLite destekli.
+  — WinForms (.NET 8) stok takip uygulaması, PostgreSQL (Railway) destekli.
 
 ## 📫 İletişim
 
