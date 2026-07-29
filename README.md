@@ -20,17 +20,17 @@ uygulamasına kadar uçtan uca projeler üretmeyi seviyorum.
 
 ## 🚀 Öne çıkan projeler
 
-- **[yoklama-sistemi-v3](https://github.com/anileyilmaz/yoklama-sistemi-v3)** — QR kodlu
+- **[yoklama-sistemi](https://github.com/anileyilmaz/yoklama-sistemi)** — QR kodlu
   üniversite yoklama sisteminin backend'i ve web paneli (Express, SQLite, socket.io).
   Hocanın ekranına katılım anlık düşer, GPS mesafe doğrulaması ve fakülte/bölüm bazlı
   admin hiyerarşisi içerir.
-- **[yoklama_app](https://github.com/anileyilmaz/yoklama_app)** — Aynı sistemin Flutter
+- **[yoklama-app](https://github.com/anileyilmaz/yoklama-app)** — Aynı sistemin Flutter
   mobil istemcisi. Öğrenci QR okutarak yoklamaya katılır, hoca dersini yönetir; ikisi de
   tek bir domain-seçimli giriş ekranından.
 - **[optik-form-sistemi](https://github.com/anileyilmaz/optik-form-sistemi)** — Optik
   cevap formu üreten ve telefon fotoğrafından otomatik okuyup puanlayan masaüstü
   uygulaması (Python, PySide6, OpenCV).
-- **[FabrikaStokTakipUygulamasi](https://github.com/anileyilmaz/FabrikaStokTakipUygulamasi)**
+- **[fabrika-stok-takip](https://github.com/anileyilmaz/fabrika-stok-takip)**
   — WinForms (.NET 8) stok takip uygulaması, PostgreSQL (Railway) destekli.
 
 ## 📫 İletişim
