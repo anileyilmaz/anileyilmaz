@@ -1,4 +1,4 @@
-### Merhaba, ben Anıl 👋
+# Merhaba, ben Anıl 👋
 
 Full-stack ve mobil uygulamalar geliştiren bir yazılımcıyım — QR kodlu üniversite yoklama
 sisteminden (web + mobil + gerçek zamanlı bildirimler) optik form okuyan bir masaüstü
@@ -8,17 +8,17 @@ uygulamasına kadar uçtan uca projeler üretmeyi seviyorum.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 🚀 Öne çıkan projeler
+## 🚀 Öne çıkan projeler
 
 - **[yoklama-sistemi-v3](https://github.com/anileyilmaz/yoklama-sistemi-v3)** — QR kodlu
   üniversite yoklama sisteminin backend'i ve web paneli (Express, SQLite, socket.io).
@@ -33,7 +33,7 @@ uygulamasına kadar uçtan uca projeler üretmeyi seviyorum.
 - **[FabrikaStokTakipUygulamasi](https://github.com/anileyilmaz/FabrikaStokTakipUygulamasi)**
   — WinForms (.NET 8) stok takip uygulaması, PostgreSQL/SQLite destekli.
 
-### 📫 İletişim
+## 📫 İletişim
 
 [![Email](https://img.shields.io/badge/Email-anileyilmaz%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anileyilmaz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anıl%20Yılmaz-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/an%C4%B1l-y%C4%B1lmaz-78a671341/)
